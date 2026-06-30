@@ -448,10 +448,10 @@ Pass/fail table for audited elements.
 | Page size | A4 or US Letter |
 | Brand colors | IEC navy `#003366` (verify with client brand guide) |
 | Fonts | Corporate sans for body; avoid system defaults in export |
-| Screenshots | High-DPI, annotated with red callout boxes |
+| Screenshots | High-DPI, annotated with red callout boxes — see [Screenshot Shot List](./iec-telecom-pdf-screenshot-shot-list.md) |
 | Export | Figma → PDF, or InDesign; keep file under 15MB |
 | Versioning | v1.0 - [date] - [author] |
 
 ---
 
-*This outline pairs with: [UX Audit Report](./iec-telecom-ux-audit-report.md) · [Figma Sitemap](./iec-telecom-figma-sitemap.md) · [Phase 1 Spec](./iec-telecom-phase-1-implementation-spec.md)*
+*This outline pairs with: [UX Audit Report](./iec-telecom-ux-audit-report.md) · [Screenshot Shot List](./iec-telecom-pdf-screenshot-shot-list.md) · [Figma Sitemap](./iec-telecom-figma-sitemap.md) · [Phase 1 Spec](./iec-telecom-phase-1-implementation-spec.md)*
