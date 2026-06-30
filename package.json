@@ -1,0 +1,20 @@
+{
+  "name": "iec-telecom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "capture": "node scripts/capture-screenshots.js",
+    "pdf": "node scripts/generate-pdf.js",
+    "report": "node scripts/capture-screenshots.js && node scripts/generate-pdf.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "puppeteer": "^24.43.1"
+  }
+}
